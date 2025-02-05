@@ -1,4 +1,4 @@
-# CS571-S25 HW1: Badger Mart
+# CS571-S25 Project1: Badger Mart
 
 Welcome to Badger Mart! For this assignment, you will be completing the functionality of the `.html`, `.css`, and `.js` files. You will also be using our first API. 
 
